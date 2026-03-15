@@ -3,7 +3,7 @@ import InstagramLogin from './InstagramLogin'
 
 const App = () => {
   return (
-    <div>
+    <div className='  h-screen  pt-10 ' >
       <InstagramLogin/>
      
     </div>
