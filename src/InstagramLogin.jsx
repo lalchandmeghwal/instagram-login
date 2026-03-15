@@ -21,7 +21,6 @@ const InstagramLogin = () => {
 
     const handleLogin = (e) => {
         e.preventDefault();
-        console.log(inputName);
         postData();
        
     };
